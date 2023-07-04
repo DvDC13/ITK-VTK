@@ -1,4 +1,4 @@
-# ITK-VTK
+# PROJET ITK-VTK
 ## Auteurs
 ### Majeure IMAGE
 
